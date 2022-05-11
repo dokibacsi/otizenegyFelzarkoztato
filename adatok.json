@@ -1,0 +1,28 @@
+{
+    "pillangok": [
+        {
+            "fajta": "Éjjeli lepke",
+            "szin": "Fekete"
+        },
+        {
+            "fajta": "Pápaszemes boszorkánylepke",
+            "szin": "Barna"
+        },
+        {
+            "fajta": "Fecskefarkú lepke",
+            "szin": "fekete, fehér lepke"
+        },
+        {
+            "fajta": "Sakktábla lepke",
+            "szin": "fekete, fehér kockás"
+        },
+        {
+            "fajta": "Halálfejes pillangó",
+            "szin": "fekete, sárga"
+        },
+        {
+            "fajta": "Farkasalmalepke",
+            "szin": "Színes, csíkos mindenes"
+        }
+    ]
+}
